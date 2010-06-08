@@ -1,0 +1,6 @@
+xterm*background: #000000
+xterm*foreground: #FFFFFF
+
+xautolock*time: 30
+
+XLock.usefirst: true
